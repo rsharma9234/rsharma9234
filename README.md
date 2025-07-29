@@ -12,11 +12,6 @@ With a diverse skill set, I have a strong background in both frontend and backen
 - 🏅 **Blockchain & Cryptography**: Ethereum, Blockchain, NFT, Dapps, Wallet Development
 - 🏅 **Design Tools**: Adobe Photoshop, Illustrator, Figma, Custom Mockups/Banners/Designs
 
-### Fun Facts:
-- I enjoy collaborating with cross-functional teams to build innovative solutions.
-- I am always eager to learn and experiment with emerging technologies in the software space.
-- I believe in writing clean, maintainable, and scalable code that stands the test of time.
-
 ### Let's Connect:
 - 🔭 I’m currently working as a freelancer on several full-stack application
 - 🌱 I’m expanding my knowledge in Cloud-native technologies and DevOps practices.
