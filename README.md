@@ -13,7 +13,7 @@ I have strong expertise in the following techs:
 🏅 Adobe Photoshop, Illustrator, Figma, Mockup/Banner/Custom Design
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rsharma9234)]
+![trophy](https://github-profile-trophy.vercel.app/?username=rsharma9234)
 
 <!--
 **rsharma9234/rsharma9234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
